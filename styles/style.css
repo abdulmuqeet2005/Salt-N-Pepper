@@ -1,3 +1,73 @@
 *{
     background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+@font-face {
+    font-family: 'futurak';
+    src: url('../fonts/futurak.ttf');
+}
+.futurak-font{
+    font-family: futurak;
+    font-size: 5.2rem;
+}
+html {
+    font-size: 62.5%;
+}
+.logo{
+    width: 36%;
+    
+}
+.nav a{
+    text-decoration: none;
+    color: white;
+    font-size: 1.8rem;
+}
+.btn1{
+    border: 1px solid white;
+    border-radius: 30px;
+    padding: 14px 20px;
+}
+.btn2{
+    font-size: 1.5rem;
+    cursor: pointer;
+    color: white;
+    background-color: red;
+    border: 1px solid rgb(255, 3, 3);
+    border-radius: 30px;
+    padding: 16px 32px;
+   
+}
+.heading1{
+    color: #ffffff;
+    font-size: 4rem;
+    font-weight: 100;
+}
+.brand p{    
+    color: #ffffff97;
+    font-size: 1.8rem;
+}
+.brand span{
+    font-size: 6rem;
+    font-weight: 700;
+}
+
+.order-brand-btn{
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.555);
+    border-radius: 30px;
+    padding: 14px 35px;
+    margin-top: 20px;
+   
+}
+.brand image{
+    width: 260px;
+    border-radius: 3px;    
+    
+}
+.restaurant-container{
+    background-color: #0f0f0f;
+}
+.restaurant-franchises{
+    color: #ffff;
 }
