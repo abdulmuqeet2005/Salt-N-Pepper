@@ -15,6 +15,11 @@
     font-family: futurak;
     font-size: 3.8rem;
 }
+
+.f-f-f-3rem{    
+    font-family: futurak;
+    font-size: 3.2rem;
+}
 html {
     font-size: 62.5%;
 }
@@ -25,12 +30,14 @@ html {
 .nav a{
     text-decoration: none;
     color: white;
-    font-size: 1.8rem;
+    font-size: 1.6rem;
 }
 .btn1{
     border: 1px solid white;
     border-radius: 30px;
-    padding: 14px 25px;
+    padding: 14px 20px;
+    position: relative;
+    bottom: 10px;
 }
 .nav-btn2{
     font-size: 1.5rem;
@@ -39,7 +46,10 @@ html {
     background-color: red;
     border: 1px solid rgb(255, 3, 3);
     border-radius: 30px;
-    padding: 16px 28px;
+    padding: 16px 24px;
+    position: relative;
+    right: 20px;
+    bottom: 10px;
    
 }
 .nav-first-icon{
@@ -157,6 +167,227 @@ html {
     color: red;
     
 }
-.express-children{
+.express-heading{
     color: #ffff;
+}
+.express-heading-h2{
+    text-align: center;
+    font-size: 4.7rem;
+    font-weight: 200;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.express-children-h2{
+    color: #ffffff;
+    font-size: 2rem;
+    font-weight: 300;
+}
+.express-children p{
+    color: #ffffff97;
+    font-size: 1.5rem;
+    margin-top: 15px;
+}
+.express-children-p2{
+    position: relative;
+    top: 12px;
+}
+.express-children-btn{
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.555);
+    border-radius: 30px;
+    padding: 16px 20px 15px 15px;
+    margin-top: 20px;
+   position: relative;
+   top: 30px;
+   position: relative;
+   
+}
+.express-children-btn-icon{
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 8px 6px;
+    margin-left: 15px;
+    background-color: white;
+    color: red;
+    
+}
+.express-children-6-btn{
+         
+    color: white;
+    border: 1px solid rgba(255, 255, 255, 0.555);
+    border-radius: 30px;
+    padding: 16px 20px 15px 15px;
+    margin-top: 20px;
+   top: 30px;
+   position: relative;
+}
+.express-children img {
+    width: 400px; /* Set a fixed width */
+    height: 400px; /* Set a fixed height */
+    object-fit: cover; /* Ensure the image maintains aspect ratio */
+    border-radius: 2px; /* Optional: Add rounded corners */
+}
+.village-container{
+    
+}
+.village-children-first-h2{
+    color: #ffff;
+    font-size: 6rem;
+    font-family: futurak;
+    
+}
+.village-children-second-h2{
+    color: #ffff;
+    font-size: 5.2rem;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.village-children-h2{
+    color: #ffff;
+    font-size: 3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    
+}
+.village-children-p{
+    color: #ffff;
+    font-size: 1.5rem;
+    margin-top: 30px;
+}
+.village-children-p2{
+    color: #ffff;
+    font-size: 1.5rem;
+    margin-top: 10px;
+}
+.village-children-btn{
+    color: white;
+    background-color: #28a745;
+    border: 1px solid rgba(62, 231, 28, 0.555);
+    border-radius: 30px;
+    padding: 16px 20px 16px 15px;
+    margin-top: 20px;
+    
+    position: relative;
+    top: 30px;
+
+}
+.village-children-btn:hover{
+    background-color: transparent;
+}
+.village-children-btn-icon{    
+    border: 1px solid white;
+    border-radius: 20px;
+    padding: 8px 6px;
+    margin-left: 15px;
+    background-color: white;
+    color: rgb(0, 255, 21);
+}
+.opening-soon-first-h2{
+    color: #ffff;
+    font-size: 6rem;
+    font-family: futurak;
+}
+.opening-soon-second-h2{
+    color: #ffff;
+    font-size: 4rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 10px;
+    font-weight: 200;
+
+}
+.opening-soon-children{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    background-color: #ffff;
+    width: 400px;
+    height: 270px;
+    object-fit: cover; /* Ensure the image maintains aspect ratio */
+    border-radius: 2px;
+    margin-top: 50px;
+}
+.opening-soon-children-icon{    
+    background-color: #e9ece9;  
+    border-radius:50px; 
+    padding: 10px; 
+    color: #d03732;
+    font-size: 4rem;
+    position: relative;
+    top: 30px;
+    
+}
+.opening-soon-children-h3{
+    position: relative;
+    top: 70px;
+    background-color: transparent;
+    color: red;
+    font-size: 1.2rem;
+    font-weight: 300;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    
+}
+.opening-soon-children-second-h3{
+    background-color: transparent;
+    color: #000;
+    position: relative;
+    top: 90px;
+    font-size: 2rem;
+    font-weight: 200;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+    
+}
+.opening-soon-children-p{
+    color: #000;
+    background-color: transparent;
+    position: relative;
+    top: 110px;
+    font-size: 2rem;    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.opening-soon-font-size{
+    font-size:3rem ;
+    background-color: transparent;
+    color: #000;
+    font-weight: bold;
+
+}
+.Social-Feed-parint-h3{
+    color:rgba(128, 128, 128, 0.436);
+    font-size: 4rem;
+    font-weight: 200;
+    /* background-color: aqua; */
+    text-align: center;
+    margin-top: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+/* .Social-Feed-images img{
+    width: 400px;
+    height: 400px;
+    object-fit: cover; 
+    border-radius: 2px; 
+} */
+.footer-container{
+    background-color: #ffff;
+    width: 100%; 
+    text-align: center;
+}
+.footer-children{
+    color: #ffffff9c;
+    font-size: 1.2rem;
+    
+}
+.footer-second-p{
+    margin-top: 20px;
+}
+.footer-children-2{
+    color: #ffff;
+    margin-top: 60px;
+}
+.footer-children-2 a{
+    color: #ffff;
+    text-decoration: none;
+
 }
