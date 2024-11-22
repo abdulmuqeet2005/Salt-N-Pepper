@@ -3,6 +3,13 @@
     padding: 0;
     box-sizing: border-box;
 }
+@font-face {
+    font-family: 'futurak';
+    src: url('../fonts/futurak.ttf');
+}
+.f-font{
+    font-family: 'Futurak';
+}    
 .Introduction-h1{
     color: #fff;
     text-align: center;
@@ -42,5 +49,78 @@
 .market-children p{
     color: #ffffff9c;
     font-size: 1.4rem;
+    line-height: 18px;
+    margin-bottom: 10px;
+    font-weight: 400;
+    letter-spacing: 0.03em;
 }
+.franchises-children{
+    color: #fff;
+    text-align: center;
+    font-weight: 100;
+    font-size: 2rem;
+    
+}
+.franchises-children-2 h2{
+     color: #fff;
+     font-size: 3rem;
+     font-weight: 100;
+}
+.franchises-children-2 p{
+    color: #ffffff9c;
+    font-size: 1.4rem;
+    line-height: 18px;
+    margin-bottom: 10px;
+    font-weight: 400;
+    letter-spacing: 0.03em;
+    margin-top: 20px;
 
+    
+}
+.franchises-parint{
+    margin-top: 80px;
+}
+.express-container h2{
+    margin-top: 70px;
+    color: #fff;
+    /* text-align: center; */
+    font-weight: 100;
+    font-size: 3rem;
+    
+}
+.express-container p{
+    color: #ffffff9c;
+    font-size: 1.4rem;
+    line-height: 18px;
+    margin-bottom: 10px;
+    font-weight: 400;
+    letter-spacing: 0.03em;
+    margin-top: 30px;
+    /* text-align: center; */
+}
+.express-children-2{
+    
+    color: #ffffff9c;
+    font-size: 1.4rem;    
+    font-weight: 400;
+    letter-spacing: 0.03em;
+    
+}
+.express-locations-children1 h2{
+    color: #fff;
+    font-size: 4rem;
+
+}
+.express-locations-children2 h2{
+    color: #fff;
+    font-size: 3.5rem;
+}
+/* .express-locations-children-3-hero{
+    background-color: #a42121;
+    width: 370px;
+    height: 380px;
+    border-radius: 10px;
+} */
+.express-locations-children-3-hero h2{
+    color: #fff;
+}
