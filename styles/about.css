@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.Introduction-h1{
+    color: #fff;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: 3.8rem;
+    margin-top: 70px;
+
+}
+.Introduction-hero{
+     color: #ffffff9c;
+     text-align: center;
+     font-size: 1.7rem;
+     margin-top: 50px;
+}
+.restaurant-hero h2{
+    color: #fff;
+    text-align: center;
+    font-weight: 100;
+    /* font-family: Georgia, 'Times New Roman', Times, serif ; */
+    font-size: 3.8rem;
+    margin-top: 70px;
+
+}
+.restaurant-hero p{
+    color: #ffffff9c;
+    text-align: center;
+    font-size: 1.7rem;
+    margin-top: 30px;
+}
+.market-children{
+    color: #fff;
+}
+.market-children h2{
+    font-size: 3rem;
+    font-weight: 100;
+}
+.market-children p{
+    color: #ffffff9c;
+    font-size: 1.4rem;
+}
+

@@ -370,24 +370,108 @@ html {
     border-radius: 2px; 
 } */
 .footer-container{
-    background-color: #ffff;
+    /* background-color: #ffff; */
+    margin-top: 150px;
     width: 100%; 
-    text-align: center;
+    height: 400px;
+    /* text-align: center; */
 }
 .footer-children{
     color: #ffffff9c;
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     
 }
 .footer-second-p{
     margin-top: 20px;
+
 }
-.footer-children-2{
+/* .footer-children-h2{
     color: #ffff;
-    margin-top: 60px;
-}
+} */
+
 .footer-children-2 a{
+    font-size: 1.5rem;
+    color: #ffffff9c;
+    text-decoration: none;    
+    /* justify-content: center; */
+    list-style: none;
+    display: flex;
+    gap: 0px 5px;    
+    padding-bottom: 16px;
+    font-weight: 100;
+    
+
+}
+.footer-children-h2{
+    padding-top: 20px;
     color: #ffff;
-    text-decoration: none;
+    font-size: 2rem;
+    font-weight: 200;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+    /* font-weight: bold; */
+    
+}
+.footer-children-3{
+    color: #ffff;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+        
+}
+.footer-children-3-firest-h2{
+    color: #ffff;
+    font-size: 2rem;
+    font-weight: 100;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+}
+.icon{
+    background-color: transparent;
+}
+/* .footer-children-3-first-p{
+    font-size: 1.5rem;
+
+} */
+.footer-children-3-second-h2{
+    font-size: 1.9rem;
+}
+.footer-children-3-third-h2{
+    font-size: 1.9rem;
+}
+.font-size{
+    font-size: 1.5rem;
+    color: #ffffff9c;
+}
+.footer-children-4{
+    color: #ffff;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: column;
+        
+}
+.footer-children-4-h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    font-weight: 100;
+
+}
+.footer-social-links span{
+    color: #fff;
+    background-color: transparent;
+    background-color: red;
+    border: 1px solid red;
+    border-radius: 50px;
+    padding: 14px;
+    font-size: 1.6rem;
+    
+}
+.my-name{
+    font-size: 1.5rem;
+    color: #fff;
+    display: flex;
+    justify-content: end;
+    margin-right: 50px;
 
 }
