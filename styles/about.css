@@ -94,8 +94,7 @@
     line-height: 18px;
     margin-bottom: 10px;
     font-weight: 400;
-    letter-spacing: 0.03em;
-    margin-top: 30px;
+    letter-spacing: 0.03em;    
     /* text-align: center; */
 }
 .express-children-2{
@@ -108,19 +107,62 @@
 }
 .express-locations-children1 h2{
     color: #fff;
-    font-size: 4rem;
-
+    font-size: 3.6rem;
+    font-family: futurak;
 }
 .express-locations-children2 h2{
     color: #fff;
-    font-size: 3.5rem;
+    font-size: 3.3rem;
+    margin-top: 20px;
+    margin-right: 20px;
 }
-/* .express-locations-children-3-hero{
-    background-color: #a42121;
-    width: 370px;
-    height: 380px;
+.express-locations-children-3-hero{
+    background-color: #0f0f0f;
+    width: 380px;
+    height: 450px;
     border-radius: 10px;
-} */
+}
+
 .express-locations-children-3-hero h2{
+    background-color: #0f0f0f;
     color: #fff;
+    font-size: 1.8rem;
+    font-weight: 100;
+    margin-top: 15px;     
+}
+.express-locations-children-3-hero p{
+    background-color: #0f0f0f;
+    color: #ffffff9c;
+    font-size: 1.4rem;
+    margin-top: 20px;
+}
+.Village-Gujrawala-parint h2{
+    color: #fff;
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 100;
+
+}
+.Village-Gujrawala-children{
+    margin-top: 100px;
+}
+.Village-Gujrawala-children-h2{
+    color: #fff;
+    font-size: 2.8rem;
+    font-weight: 100;
+}
+.font-bold{
+    font-weight: bold;
+}
+.Village-Gujrawala-children-p{
+    color: #ffffff9c;
+    font-weight: 100;
+    font-size: 1.6rem;
+    margin-top: 20px;
+}
+.Village-Gujrawala-children-second-p{
+    color: #ffffff9c;
+    font-weight: 100;
+    font-size: 1.6rem;
+    margin-top: 10px;
 }

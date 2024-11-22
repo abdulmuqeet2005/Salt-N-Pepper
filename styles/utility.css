@@ -292,3 +292,6 @@ html{
 .bg-white{
     background-color: #ffffff;
 }
+.font-bold{
+    font-weight: bold;
+}
