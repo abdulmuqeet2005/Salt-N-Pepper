@@ -7,6 +7,9 @@
     font-family: 'futurak';
     src: url('../fonts/futurak.ttf');
 }
+.header{
+    border-bottom: 2px solid rgb(23, 23, 23);
+}
 .f-font{
     font-family: 'Futurak';
 }    
