@@ -477,3 +477,9 @@ html {
     margin-right: 30px;
 
 }
+.footer-children-4-imgage img{
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+    
+}
