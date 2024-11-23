@@ -466,12 +466,14 @@ html {
     padding: 14px;
     font-size: 1.6rem;
     
+    
 }
-.my-name{
-    font-size: 1.5rem;
+.my-name h2{
+    font-size: 1.6rem;
     color: #fff;
+    font-weight: 100;
     display: flex;
     justify-content: end;
-    margin-right: 50px;
+    margin-right: 30px;
 
 }
